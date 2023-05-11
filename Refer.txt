@@ -1,0 +1,30 @@
+Excercise -1
+    Perform Morphological Analysis for an interrogative sentence, declarative sentence,
+    and complex sentences with more two sentences connected using conjunctions.
+
+Excercise -2
+    Perform Coarse-grained POS Tagging and Fine-grained POS Tagging.
+
+Excercise -3
+    Named EntityRecognition with Python.
+
+Excercise -4
+    Sentiment Analysis with Python.
+
+Excercise -5
+    Keyword Extraction with Python.
+
+Excercise -6
+    Spelling Correction Model with Python.
+
+Excercise -7
+    Resume Screening with Python.
+
+Excercise -8
+    Twitter Sentiment Analysis.
+
+Excercise -9
+    NLP For WhatsApp Chats.
+
+Excercise -10
+    NLP For Other Languages
